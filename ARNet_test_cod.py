@@ -28,7 +28,7 @@ elif opt.gpu_id=='1':
 
 #load the model
 model = ARNet()
-model.load_state_dict(torch.load('./ARNet_epoch_135.pth'))  ## weight path
+model.load_state_dict(torch.load('./******************.pth'))  ## weight path
 model.cuda()
 model.eval()
 
