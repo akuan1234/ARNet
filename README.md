@@ -9,5 +9,5 @@ others packages can be found at requirement.txt
 
 ## Contrast experiment！ 
 
-[fig6.pdf](https://github.com/user-attachments/files/18078118/fig6.pdf)
-[xiaorong.pdf](https://github.com/user-attachments/files/18078120/xiaorong.pdf)
+![image](https://github.com/user-attachments/files/18078118/fig6.pdf)
+![image](https://github.com/user-attachments/files/18078120/xiaorong.pdf)
