@@ -34,7 +34,7 @@ model.eval()
 
 test_datasets = ['CAMO', 'COD10K', 'NC4K']
 for dataset in test_datasets:
-    save_path = '***********************' + dataset + '/'   ## test save path
+    save_path = '***********************' + dataset + '/'   ## test save path  
     if not os.path.exists(save_path):
         os.makedirs(save_path)
     image_root = dataset_path + dataset + '/Imgs/'
