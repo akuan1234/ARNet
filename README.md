@@ -10,6 +10,8 @@ python = Python 3.9
 
 others packages can be found at requirement.txt
 
+In order to comply with the double-blind review policy, the relevant links to the prediction results, training weights, and other information will be made public at the end of the review.
+
 ## Contrast experiment！ 
 
 
