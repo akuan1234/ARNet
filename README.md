@@ -23,8 +23,6 @@ In order to comply with the double-blind review policy, the relevant links to th
 
 ![image](https://github.com/user-attachments/assets/f2f871c2-de1b-4efb-abf8-f60730946730)
 
-![image](https://github.com/user-attachments/assets/ebe3a50d-60e2-4531-a9f8-001140fe14ff)
-
 ![image](https://github.com/user-attachments/assets/931d7a8a-1564-445a-9a85-7b7278a0c68e)
 
 ![image](https://github.com/user-attachments/assets/5f4e181b-433f-41d2-8ac4-089f1d4888f5)
